@@ -6,8 +6,7 @@ eleventyNavigation:
   key: home
   order: 100
 ---
-
-I am JOcks [11ty static site generator](https://www.11ty.dev/). It shows pages, blog posts, lists, and tags.
+News media entertainment[11ty static site generator](https://www.11ty.dev/). It shows pages, blog posts, lists, and tags.
 
 The whole build process is managed through 11ty.
 
