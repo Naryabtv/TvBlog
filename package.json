@@ -5,7 +5,7 @@
   "main": ".eleventy.js",
   "scripts": {
     "start": "npm run clean && clear &&  npx eleventy --serve",
-    "production": "npm run clean && npx eleventy",
+    "build": "npm run clean && npx eleventy",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "clean": "rm -rf build"
   },
