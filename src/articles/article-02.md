@@ -1,6 +1,6 @@
 ---
-title: The second article
-description: This is the second article.
+title: Naryab Dam The second article
+description: Naryab Dam This is the second article.
 date: 2020-09-02
 tags:
   - HTML
