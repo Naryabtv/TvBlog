@@ -10,4 +10,4 @@ News media entertainment global news media from around the world covering global
 
 The whole build process is managed through naryab tv covering worldwide news media entertainment
 
-Images from [naryabtv.netlify.com](https://naryabtv.netlify.com/) courtesy of [naryab tv](https://naryabtv@gmail.com)
+Images from [naryabtv.netlify.com](https://naryabtv.netlify.com/) courtesy of [naryab tv]
