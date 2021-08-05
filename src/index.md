@@ -1,12 +1,14 @@
 ---
 title: Naryab Tv Limited
-description: This is a news media entertainment channel demonstration website generated using the 11ty static site generator.
+description:News Media Entertainment Channel 
+Worldwide news coverage from around the world covering global coverage from fresh news media
+entertain drama gossip learning creative ideas to tv blogs vlogs community forums charity organistion and bussiness advertisment 
 layout: page.njk
 eleventyNavigation:
   key: home
   order: 100
 ---naryab tv
-News media entertainment global news media from around the world covering global coverage (https://www.naryabtv.netlify.com). It shows pages, blog posts, lists, and tags.
+News Media Entertainment global news media from around the world covering global coverage (https://www.naryabtv.netlify.com). It shows pages, blog posts, lists, and tags.
 
 The whole build process is managed through naryab tv covering worldwide news media entertainment
 
