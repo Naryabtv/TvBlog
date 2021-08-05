@@ -6,7 +6,7 @@ eleventyNavigation:
   key: home
   order: 100
 ---naryab tv
-News media entertainment global news media from around the world covering global coverage (https://www.naryabtb.netlify.com). It shows pages, blog posts, lists, and tags.
+News media entertainment global news media from around the world covering global coverage (https://www.naryabtv.netlify.com). It shows pages, blog posts, lists, and tags.
 
 The whole build process is managed through 11ty.
 
