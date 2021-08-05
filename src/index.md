@@ -8,6 +8,6 @@ eleventyNavigation:
 ---naryab tv
 News media entertainment global news media from around the world covering global coverage (https://www.naryabtv.netlify.com). It shows pages, blog posts, lists, and tags.
 
-The whole build process is managed through 11ty.
+The whole build process is managed through naryab tv covering worldwide news media entertainment
 
-Images from [unsplash.com](https://unsplash.com/) courtesy of [Gabriel Porras](https://unsplash.com/@gabrielizalo), [Tim Rüßmann](https://unsplash.com/@timaesthetic), and [Michael Dziedzic](https://unsplash.com/@lazycreekimages).
+Images from [naryabtv.netlify.com](https://naryabtv.netlify.com/) courtesy of [naryab tv](https://naryabtv@gmail.com)
