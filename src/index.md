@@ -1,6 +1,6 @@
 ---
 title: Naryab Tv Limited
-description:News Media Entertainment Channel 
+description: News Media Entertainment Channel 
 Worldwide news coverage from around the world covering global coverage from fresh news media
 entertain drama gossip learning creative ideas to tv blogs vlogs community forums charity organistion and bussiness advertisment 
 layout: page.njk
