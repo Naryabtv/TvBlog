@@ -1,8 +1,8 @@
 ---
 title: Naryab TV The first article
 description: News Media Entertainment This is the first article.
-date: 2020-09-01
-tags:
+date: 2021-08-05
+tags: naryab tv
   - HTML
   - CSS
 ---
