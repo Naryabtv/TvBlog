@@ -1,6 +1,6 @@
 ---
-title: Naryab tv 11ty starter site
-description: This is a demonstration website generated using the 11ty static site generator.
+title: Naryab tv limited
+description: This is a news media entertainment channel demonstration website generated using the 11ty static site generator.
 layout: page.njk
 eleventyNavigation:
   key: home
