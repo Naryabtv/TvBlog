@@ -1,5 +1,5 @@
 ---
-title: Naryab tv limited
+title: Naryab Tv Limited
 description: This is a news media entertainment channel demonstration website generated using the 11ty static site generator.
 layout: page.njk
 eleventyNavigation:
