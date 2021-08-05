@@ -8,7 +8,7 @@ tags:
 ---
 This is an article post.
 
-## naryab tv 
+## Naryab Tv 
 
 News Media Entertainment Channel 
 worldwide news coverage from around the world covering global coverage from fresh news media
