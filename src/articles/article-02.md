@@ -1,7 +1,6 @@
 ---
 title: Naryab Dam The second article
-description: Naryab Dam This is the second article.
-date: 2020-09-02
+description: Naryab Dam 
 tags:
   - HTML
   - JavaScript
