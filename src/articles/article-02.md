@@ -1,6 +1,7 @@
 ---
 title: Naryab TvBlog The second article
 description: Naryab TvBlog
+date: 2021-08-05
 tags:
   - HTML
   - JavaScript
