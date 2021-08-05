@@ -12,7 +12,7 @@ This is an article post.
 
 News Media Entertainment Channel 
 Worldwide news coverage from around the world covering global coverage from fresh news media
-entertain drama gossip learning creative ideas to tv blogs vlogs community forums charity organistion and bussiness advertisment 
+entertain drama gossip learning creative ideas to tv blogs vlogs community forums charity organistion and bussiness advertisment
 .
 
 Join our naryab tv program to share spread worldwide news blogs vlogs community forums all in one place on our channel.
