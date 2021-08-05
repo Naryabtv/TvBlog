@@ -5,8 +5,8 @@ layout: page.njk
 eleventyNavigation:
   key: home
   order: 100
----
-News media entertainment global news media from around the world covering global coverage (https://www.11ty.dev/). It shows pages, blog posts, lists, and tags.
+---naryab tv
+News media entertainment global news media from around the world covering global coverage (https://www.naryabtb.netlify.com). It shows pages, blog posts, lists, and tags.
 
 The whole build process is managed through 11ty.
 
