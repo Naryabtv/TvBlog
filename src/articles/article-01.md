@@ -1,6 +1,6 @@
 ---
-title: The first article
-description: This is the first article.
+title: Naryab TV The first article
+description: News media entertainment This is the first article.
 date: 2020-09-01
 tags:
   - HTML
