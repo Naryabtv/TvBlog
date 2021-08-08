@@ -1,5 +1,5 @@
 ---
-title: Naryab TV The first article
+title: Naryab TV Limited The first article
 description: News Media Entertainment This is the first article.
 date: 2021-08-05
 tags: naryab tv
