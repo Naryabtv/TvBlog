@@ -6,7 +6,6 @@ tags: naryab tv
   - HTML
   - CSS
 ---
-This is an article post.
 
 ## Naryab Tv 
 
