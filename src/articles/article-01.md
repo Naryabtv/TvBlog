@@ -1,5 +1,5 @@
 ---
-title: Naryab TV Limted
+title: Naryab TV Limited
 description: News Media Entertainment This is the first article.
 date: 2021-08-05
 tags: naryab tv
