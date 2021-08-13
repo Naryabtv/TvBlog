@@ -2,7 +2,7 @@
 
 ---
 
-title:Naryab Tv News Media Entertainment Channel
+title: Naryab Tv Limited News Media Entertainment Channel
 
 hero: ntv.jpg
 eleventyNavigation:
