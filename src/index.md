@@ -7,7 +7,7 @@ description: News Media Entertainment Channel
 Worldwide news coverage from around the world covering global coverage from fresh news media
 entertain drama gossip learning creative ideas to tv blogs vlogs community forums.
 
-layout:page.njk
+layout: page.njk
 eleventyNavigation:
 key: home
 order: 100
